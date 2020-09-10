@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 622.3 747.71" style="enable-background:new 0 0 622.3 747.71;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:#3C6794;}
+	.st2{fill:#D1D9DB;}
+	.st3{fill:none;stroke:#FD8369;stroke-width:11;stroke-linecap:round;stroke-linejoin:round;}
+	.st4{fill:#494949;}
+	.st5{fill:none;stroke:#FFAB5E;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;}
+	.st6{fill:none;stroke:#FFAB5E;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:16.09,16.09;}
+</style>
+<g id="Layer_2_1_">
+	<g id="vector">
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="22.5212" y1="403.6912" x2="607.3298" y2="403.6912">
+			<stop  offset="0" style="stop-color:#A64942"/>
+			<stop  offset="1" style="stop-color:#FF7844"/>
+		</linearGradient>
+		<path class="st0" d="M531.25,186.43c58.35,60.4,89.96,141.19,70.17,203.34c-19.79,62.14-90.96,105.39-149.32,161.73
+			S348.2,676.99,275.31,702.82c-72.74,25.81-172.82,8.1-218.5-48.24c-45.84-56.2-37.44-151.19-22.06-231.44s38-145.78,83.7-206.18
+			c45.83-60.27,114.87-115.4,192.17-123.08S472.89,126.03,531.25,186.43z"/>
+		<polygon class="st1" points="82.49,676.56 4,581.91 4,169.56 82.49,264.21 		"/>
+		<polygon class="st2" points="523.84,601.12 82.49,677.03 82.49,264.68 523.84,188.77 		"/>
+		<polygon class="st1" points="614.83,640.05 523.84,601.12 523.84,188.77 614.83,227.7 		"/>
+		<line class="st3" x1="392.16" y1="451.39" x2="464.84" y2="520.38"/>
+		<line class="st3" x1="392.16" y1="520.38" x2="464.84" y2="451.39"/>
+		<path class="st4" d="M292,25.5c-47.48,0-95.48,43.84,0,161.19C387.47,69.34,339.47,25.5,292,25.5z M292,108.03
+			c-17.89,0.01-32.39-13.75-32.4-30.73c-0.01-16.98,14.49-30.74,32.38-30.75c17.89-0.01,32.39,13.75,32.4,30.73c0,0,0,0.01,0,0.01
+			C324.38,94.27,309.89,108.03,292,108.03C292.01,108.03,292.01,108.03,292,108.03z"/>
+		<path class="st5" d="M134.33,255.77c-1.38,2.12-2.7,4.28-3.95,6.49"/>
+		<path class="st6" d="M123.47,275.84c-11.39,25.73-15.88,54.67-15.88,80.75c0,133.61,33.71,227.23,126.89,227.23
+			c82.12,0,99.42-76.73,134.05-94.93"/>
+		<path class="st5" d="M375.89,486.03c2.55-0.65,5.17-0.98,7.81-0.98"/>
+	</g>
+</g>
+</svg>

@@ -1,0 +1,25 @@
+#faq {
+  background: white;
+  padding: 80px;
+  font-family: Arial, sans-serif;
+}
+#faq h1 {
+  font-size: 5rem;
+  color: rgb(75, 75, 75);
+  margin-bottom: 50px;
+}
+#faq ul li {
+  list-style-type: none;
+  padding-bottom: 2rem;
+}
+#faq h2 {
+  margin-bottom: 1.5rem;
+  font-weight: 600;
+}
+#faq h3 {
+  font-weight: 800;
+  color: rgb(72, 72, 72);
+}
+.question-container {
+  background: white;
+}
