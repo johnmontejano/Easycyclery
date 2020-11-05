@@ -1035,7 +1035,7 @@
   }
   .all-services {
     width: 100%;
-    margin-top: 1600px;
+    margin-top: 1760px;
     position: absolute;
     display: grid;
     grid-template-columns: repeat(2, 1fr);
@@ -1082,7 +1082,7 @@
   }
   footer {
     background-color: #1a1a1a;
-    margin-top: 2400px;
+    margin-top: 2660px;
     position: absolute;
     text-align: center;
     display: block;
